@@ -9,20 +9,18 @@
 
 *é uma tara de sabor*
 
-```*Underlined*  
+*Underlined*  
 
     <span style="color:purple; text-decoration:underline;">Tara Perdida - Batata frita Pala Pala</span>
 
-```
-
-```*Link*  
+*Link*  
     [Batata Frita - Pala Pala](https://www.continente.pt/on/demandware.static/-/Sites-col-master-catalog/default/dwaac9b855/images/col/372/3727550-frente.jpg)
-```
 
-``` python
+``` Python
 
     print("Batata frita pala pala")
     print("é uma tara de sabor")
 
 ```
+
 ![Pala Pala](https://www.continente.pt/on/demandware.static/-/Sites-col-master-catalog/default/dwaac9b855/images/col/372/3727550-frente.jpg)
