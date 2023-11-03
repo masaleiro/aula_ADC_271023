@@ -2,11 +2,11 @@
 
 **Pala** pala
 
-é uma tarade sabor
+*é uma tara de sabor*
 
 ``` python
 
-    print("Batata frita pala pala)
+    print("Batata frita pala pala")
     print("é uma tara de sabor")
 
 ```
