@@ -10,7 +10,7 @@
 - Após testes faço o merge e envio para produção
 - Volto ao ramo em que estava a trabalhar e continuo
 
-## Clonar o repositorio git_branching_website da conta ajpinto-ualg
+## Clonar o aula_ADC_271023 da conta masaleiro
 
 Abrir o VSCode e abrir num terminal GitBash executar os seguintes comandos
 
@@ -21,9 +21,9 @@ $ mkdir src
 # mudar para a diretoria src  
 $ cd src
 # clonar o projeto 
-$ git clone https://github.com/ajpinto-ualg/git_branching_website.git
+$ git clone https://github.com/masaleiro/aula_ADC_271023.git
 # mudar para a diretoria do repositorio
-$ cd git_branching_website
+$ cd aula_ADC_271023
 ```
 
 ## Criar um ramo/“branch” para um assunto/problema/“issue” em que estamos a trabalhar
